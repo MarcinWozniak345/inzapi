@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Ten plik jest wykorzystywany przez proces publikowania/pakowania projektu internetowego. Możesz dostosować zachowanie tego procesu
+ poprzez edycję tego pliku MSBuild. Aby dowiedzieć się więcej o tym działaniu, odwiedź stronę https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA1607IvNVHEqLBNYzzzPKwgAAAAACAAAAAAAQZgAAAAEAACAAAABe6yt/fXO3IAgP9iqJh7+v4szPEZ+2F/jKE33I1BpuUQAAAAAOgAAAAAIAACAAAAC6AzX/NKIPi5KsH1fxmLWJhzaHi+jAjsluqCdibz6VnYAAAAC+B/37zfnc0M6DShcrWjo7cfqZNbI8ezWnHCgeTvnWvQetZyQPSZzNNXfXfe/MfhssAG8gG4IVTGDgJ6IEBGOexHXDYEmsTAJwVqbqCuhc05m/qE+qRwvNMejn0biUYicYmzrZ0TrWdlTIl4Ov0JTsm4wJPv6cYHn1cmHOEmlbwkAAAACn73ApP/tZjIkZrWuVvqTLbfoAdI9W7evbhzoaiHRZzUYq0O/MHjmoTHqgeh7AehZTI2tyTkqEXwmKGSwXevJQ</EncryptedPassword>
+    <History>True|2022-11-07T20:07:31.5923013Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="Inzynierka_API.Entities.BazaDbContext">
+      <Value>
+      </Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
